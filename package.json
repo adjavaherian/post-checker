@@ -1,0 +1,18 @@
+{
+  "name": "post-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "content-type": "^1.0.2",
+    "express": "^4.15.2",
+    "multer": "^1.3.0",
+    "raw-body": "^2.2.0"
+  }
+}
